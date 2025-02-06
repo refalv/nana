@@ -1,5 +1,5 @@
 document.getElementById("yes").addEventListener("click", function () {
-    document.getElementById("message").innerText = "Yay! ❤️ I love you!";
+    document.getElementById("message").innerText = "Yaay! ❤️ I lovee youuu!";
 });
 
 document.getElementById("no").addEventListener("mouseover", function () {
